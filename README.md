@@ -5,7 +5,7 @@
 <!-- ================================================================= -->
 
 <a href="https://github.com/manikantapalla2728">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=👋+Hi,+I'm+MANIKANTA+PALLA;AI+%26+MACHINE+LEARNING+ENGINEER;DATA+SCIENTIST+%E2%80%A2+SYSTEMS+ARCHITECT;Building+Intelligent+Systems+From+Data+To+Production;Competitive+Programmer+%E2%80%A2+Algorithm+Solver" alt="Manikanta Palla Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Hi,+I'm+MANIKANTA+PALLA;AI+%26+MACHINE+LEARNING+ENGINEER;DATA+SCIENTIST+%E2%80%A2+SYSTEMS+ARCHITECT;Building+Intelligent+Systems+From+Data+To+Production;Competitive+Programmer+%E2%80%A2+Algorithm+Solver" alt="Manikanta Palla Animated Banner" />
 </a>
 
 <br/>
